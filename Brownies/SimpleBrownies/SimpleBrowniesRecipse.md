@@ -1,3 +1,5 @@
+# Einfache Brownies
+
 | Menge  | Zutat                                                                                              |
 |--------|----------------------------------------------------------------------------------------------------|
 | 3      | Eier                                                                                               |
@@ -15,3 +17,9 @@
 Nach belieben mit dem Mehl Nüsse, gehackte Schokolade oder Kokossplitter dazugeben.
 
 Mit Puderzucker dekorieren
+
+![SimpleBrownies_01](Images/SimpleBrownies_01.jpg)
+*Einfache Brownies*
+
+![SimpleBrownies_02](Images/SimpleBrownies_02.jpg)
+*Einfache Brownies mit Nüssen*
