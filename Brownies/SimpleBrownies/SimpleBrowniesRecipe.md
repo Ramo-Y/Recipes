@@ -12,7 +12,7 @@
 | 75 g   | Mehl                                                                                               |
 |        | Vorsichtig mit Schwingbesen darunter heben                                                         |
 
-25 - 30 Min bei 180°C backen.
+25 - 30 Min bei 180°C mit Oben- und Unterhitze backen.
 
 Nach belieben mit dem Mehl Nüsse, gehackte Schokolade oder Kokossplitter dazugeben.
 
